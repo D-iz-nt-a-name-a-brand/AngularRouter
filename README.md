@@ -1,1 +1,3 @@
-# Btrix-24
+This is the template to clearly aware about the Angular Routing...
+You have the basic knowledge of typescript.
+Then You can move on...ahead.
